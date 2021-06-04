@@ -11,6 +11,7 @@
   "repository": "https://github.com/top1st/bafswap-sdk.git",
   "keywords": [
     "pancakeswap",
+    "bafswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
